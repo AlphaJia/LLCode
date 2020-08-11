@@ -1,0 +1,15 @@
+.pyc
+.idea
+.project
+.setting
+__pycache__/
+__pycache__
+.log
+.h5
+.xml
+.ipynb_checkpoints
+.ipynb
+.png
+.jpg
+tmp/
+venv/
